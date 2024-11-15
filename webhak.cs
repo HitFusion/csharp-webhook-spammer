@@ -43,7 +43,7 @@ class Program
     static void Main(string[] args)
     {
         Console.Write("HitFusion's webhook spammer");
-        Console.Write("webhook URL: ");
+        Console.Write("\nwebhook URL: ");
         string webhookUrl = Console.ReadLine();
 
         Console.Write("message content:");
